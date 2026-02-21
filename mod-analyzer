@@ -110,7 +110,9 @@ $cheatStrings = @(
 	"WebMacro",
 	"SelfDestruct",
 	"FastPlace",
-  "Tb"
+ 	"tb",
+	"AirPlace",
+	"Hovertotem"
 )
 
 function Check-Strings {
