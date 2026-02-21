@@ -258,3 +258,5 @@ Write-Host "{ Cheat Mods }" -ForegroundColor DarkCyan
 	}
 	Write-Host
 }
+# modified by Drugged
+# Original idea by HadronCollision
