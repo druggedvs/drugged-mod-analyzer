@@ -1,5 +1,5 @@
 Clear-Host
-Write-Host "Drugged Mod Analyzer" -ForegroundColor Brown
+Write-Host "Drugged Mod Analyzer" -ForegroundColor Darkcyan
 Write-Host "Made by " -ForegroundColor DarkGray -NoNewline
 Write-Host "Druggedvs"
 Write-Host
