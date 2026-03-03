@@ -110,7 +110,6 @@ $cheatStrings = @(
 	"WebMacro",
 	"SelfDestruct",
 	"FastPlace",
- 	"Tb",
 	"AirPlace",
 	"Hovertotem"
 )
